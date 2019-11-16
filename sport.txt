@@ -1,0 +1,4 @@
+voetbal
+basketball
+hockey
+rugbe
